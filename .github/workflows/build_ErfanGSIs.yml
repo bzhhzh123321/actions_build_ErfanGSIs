@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.5.7/miui_PYXIS_20.5.7_3324c10e52_10.0.zip 
-  ROM_NAME: MIUI
+  ROM_URL: https://ip1567449201.mobgslb.tbcache.com/Firmware/Flyme/16xs/8.20.4.28/cn_beta/20200424005421/fc79088a/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=ca358fe7d577bad0b6eab74bcbd338717a1f3057b25d5d33&ali_redirect_ex_tmining_ts=1589117229&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
