@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.5.28/miui_PYXIS_20.5.28_5653d0e1fb_10.0.zip
+  ROM_URL: https://hugeota.d.miui.com/20.6.4/miui_PYXIS_20.6.4_f50b41e042_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
