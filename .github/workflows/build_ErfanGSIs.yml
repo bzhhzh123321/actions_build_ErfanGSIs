@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://61-147-122-134.ksyungslb.com/bigota.d.miui.com/20.7.23/miui_PYXIS_20.7.23_5191280d5d_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fgithub.com%2FmooseIre%2Fupdate_miui_ota%2Fblob%2Fmaster%2FDevelop%2F%25E5%25B0%258F%25E7%25B1%25B3CC%25209.md
+  ROM_URL: http://res.imtt.qq.com/res_mtt/m_download_qb/qbload/20190508/qbload.html
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
