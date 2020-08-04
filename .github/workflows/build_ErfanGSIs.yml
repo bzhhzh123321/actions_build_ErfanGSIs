@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://dlsvr04.asus.com.cn/pub/ASUS/ZenFone/ZS661KS/UL-ASUS_I003_1-ASUS-17.0823.2007.32-1.1.9-user.zip
-  ROM_NAME: asua
+  ROM_NAME: ASUS
   TZ: Asia/Shanghai
 
 jobs:
